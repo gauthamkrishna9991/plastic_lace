@@ -1,0 +1,5 @@
+[default]
+secret_key = 'vmO9mM1hcysCm0kRE4BuMBpuVvmfU148SzE0qUIwjG78droinKS2sNNGUDFXEGFeoFWA6XOMur10gB0JnTz7zdY4'
+
+[global.databases]
+my_db = "postgres://plastic_lace:2234eE3d@localhost:5432/plastic_lace"
